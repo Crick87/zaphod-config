@@ -37,7 +37,7 @@
         default_layer {
             label = "Clmk";
             bindings = <
-                &kp Q       &kp W        &kp F       &kp R        &kp P        &kp G    &kp L        &kp U              &kp Y             &hm ES_N_TILDE ES_ACUTE
+                &kp Q       &kp W        &kp F       &kp P        &kp G        &kp J    &kp L        &kp U              &kp Y             &hm ES_N_TILDE ES_ACUTE
                 &hm LGUI A  &hm LCTRL R  &hm LALT S  &hm LSHFT T  &kp D        &kp H    &hm LSHFT N  &hm LALT E         &hm LCTRL I       &hm LGUI O
                 &kp Z       &kp X        &kp C       &kp V        &kp B        &kp K    &kp M        &hm ES_SEMI COMMA  &hm ES_COLON DOT  &hm ES_UNDER ES_MINUS
                                         &lt SYM_L BKSP  &lt NUM_L SPACE        &lt MED_L RET  &lt NAV_L DEL
